@@ -1,0 +1,1 @@
+#### A cli tool built using Go and Cobra CLI framework to setup basic templates of full stack applications built using MERN stack
